@@ -71,9 +71,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+If you have access to a computer cluster with slurm workload manager, you have amazing computational power at your hands.
+Often times, you need to process a large number of files - hundreds or thousands - using one of the engineering/medical imaging software like MATLAB, FSL, FreeSurfer or your custom-written bash code.
+Using PySlurm, you can process all these files without much coding experience using only an excel file. PySlurm takes care of dividing your files into batches and processing your files on the cluster efficiently. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+Using PySlurm:
+* You can process many files/subjects using software like MATLAB, FSL, FreeSurfer.
+* You only need to have your files listed as an excel file
+* If you're working in bio/biomedical engineering, your time should be spent on your problem and not learning slurm coding
 
 
 ### Built With
