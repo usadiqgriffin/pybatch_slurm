@@ -99,11 +99,14 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
+* [Slurm workload manager](https://slurm.schedmd.com/documentation.html)
+To check, go to your login node and use:
+```sh
+  sinfo -V
   ```
+* [Python 3.0](https://www.python.org/download/releases/3.0/)
+* npm
+  
 
 ### Installation
 
