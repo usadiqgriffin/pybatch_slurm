@@ -110,18 +110,14 @@ To check, go to your login node and use:
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Log in to your slurm cluster (For UNC, this is the longleaf cluster)
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. Add Python module for using this repo
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+   module add python/3.8.8
    ```
 
 
