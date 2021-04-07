@@ -82,14 +82,12 @@ Using PySlurm:
 * You only need to have your files listed as an excel file
 * If you're working in bio/biomedical engineering, your time should be spent on your problem and not learning slurm coding
 
-
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
-
 
 
 <!-- GETTING STARTED -->
@@ -112,7 +110,7 @@ To check, go to your login node and use:
 ### Installation
 
 1. Log in to your slurm cluster (For UNC, this is the longleaf cluster)
-1. Clone the repo
+2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
@@ -121,12 +119,27 @@ To check, go to your login node and use:
    module add python/3.8.8
    ```
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Execute simple MATLAB code on 5 files:
+   ```sh
+   module add matlab/2018a
+   python pybatch_slurm --cmd "matlab matlab_print" -f matlab.csv
+   ```
+   
+Usage: pybatch_slurm.py [-h] -c INCMD [-f FILE] [--from START] [--to STOP]
+
+PySlurm: A Python module to batch process MATLAB, FSL using Slurm manager
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -c INCMD, --cmd INCMD
+                        specify the command to be run on multiple subjects
+  -f FILE, --file FILE  specify csv file to load inputs/subjects from
+  --from START          starting subject number
+  --to STOP             last subject number
+
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
