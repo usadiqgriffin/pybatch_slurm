@@ -31,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">PySlurm</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An amazing Python wrapper to batch process MATLAB, FSL and Freesurfer on Slurm workload manager
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
