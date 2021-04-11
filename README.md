@@ -14,7 +14,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-![Alt Text](https://gifyu.com/image/rxRL)
+![Alt Text](https://s4.gifyu.com/images/Pybatch_slurm.gif)
 
 <!-- PROJECT LOGO -->
 <br />
