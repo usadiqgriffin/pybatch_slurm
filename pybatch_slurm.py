@@ -1,5 +1,5 @@
 # Author: Usman Sadiq, copy with permissions
-# Example usage: python pyconn_xlab start_sub end_sub
+# Example usage: type python pybatch_slurm.py -h 
 import os
 import time
 import csv
