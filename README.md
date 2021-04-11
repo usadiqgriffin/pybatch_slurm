@@ -102,7 +102,7 @@ To check if you have Slurm on your cluster, go to your login node and use:
 1. Log in to your slurm cluster (For UNC, this is the longleaf cluster)
 2. Clone the repo
    ```sh
-   git clone https://github.com/usadiqgriffin/pyslurm-batch.git
+   git clone https://github.com/usadiqgriffin/pybatch_slurm.git
    ```
 3. Add Python module for using this repo
    ```sh
@@ -164,9 +164,9 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b usadiqgriffin/pybatch_slurm`)
+3. Commit your Changes (`git commit -m 'Add some feature to this module'`)
+4. Push to the Branch (`git push origin usadiqgriffin/pybatch_slurm`)
 5. Open a Pull Request
 
 
@@ -181,10 +181,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - email@example.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
