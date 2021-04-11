@@ -8,12 +8,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<p align="center">
+  [![Contributors][contributors-shield]][contributors-url]
+</p>
+  
+[![Forks][forks-shield]][https://github.com/usadiqgriffin/pybatch_slurm/network/members]
+[![Stargazers][stars-shield]][https://github.com/usadiqgriffin/pybatch_slurm/stargazers]
+[![Issues][issues-shield]][https://github.com/usadiqgriffin/pybatch_slurm/issues]
+[![MIT License][license-shield]][https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE]
 
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
