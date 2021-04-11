@@ -14,12 +14,12 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-![Alt Text](https://s4.gifyu.com/images/Pybatch_slurm.gif)
+
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  https://github.com/usadiqgriffin/pybatch_slurm/blob/main/Pybatch_slurm.png
+  ![Alt Text](https://s4.gifyu.com/images/Pybatch_slurm.gif)
   <h3 align="center">PySlurm</h3>
 
   <p align="center">
