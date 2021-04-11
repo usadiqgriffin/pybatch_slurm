@@ -15,12 +15,13 @@
 [![MIT License][license-shield]][license-url]
 
 
+<p align="center">
+  <img width="460" height="300" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  ![Alt Text](https://s4.gifyu.com/images/Pybatch_slurm.gif)
-  <h3 align="center">PySlurm</h3>
 
   <p align="center">
     An amazing Python wrapper to batch process MATLAB, FSL and Freesurfer on Slurm based clusters
@@ -35,7 +36,7 @@
   </p>
 </p>
 
-
+[logo]: https://s4.gifyu.com/images/Pybatch_slurm.gif "Logo Title Text 2"
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
