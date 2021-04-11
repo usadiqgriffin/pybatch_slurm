@@ -118,7 +118,7 @@ To check if you have Slurm on your cluster, go to your login node and use:
    module add matlab/2018a
    python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5
    ```
-2. Run FSL tool (fsl_anat) to anatomically process subjects from fsl_subs.csv:
+2. Run [FSL tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/fsl_anat) to anatomically process subjects from fsl_subs.csv:
    ```sh
    module add fsl
    python pybatch_slurm.py -c "fsl_anat -i" --from 0 --to 1 --file fsl_subs.csv
@@ -128,15 +128,13 @@ To check if you have Slurm on your cluster, go to your login node and use:
    python pybatch_slurm.py -c "bash bash_test.sh " --from 0 --to 1 --file fsl_subs.csv
    ```
    
-4. Execute MATLAB code on 5 files, 3 subjects per batch, waiting for 5 mins to launch the next batch:
+4. Execute MATLAB program on 5 subjects, 3 subjects per batch, waiting for 5 mins to launch the next batch:
    ```sh
    module add matlab/2018a
    python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5 --batch 3 --time 0.08
    ```
    
 General Usage: pybatch_slurm.py [-h] -c CMD_IN [-f FILE] [--from START] [--to STOP] [--batch BATCH_SIZE] [--time TIME]
-
-PySlurm: A Python module to batch process MATLAB, FSL using Slurm manager
 
 optional arguments:
   -h, --help            show this help message and exit
