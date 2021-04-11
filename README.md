@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/usadiqgriffin/pybatch_slurm/blob/main/Pybatch_slurm.png)
 
 If you have access to a computer cluster with slurm workload manager, you have amazing computational power at your hands.  
 <br />
