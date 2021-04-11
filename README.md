@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+  < src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
 
 <!-- PROJECT LOGO -->
