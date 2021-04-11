@@ -13,7 +13,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -82,13 +81,6 @@ Using PySlurm:
 * You only need to have your files listed as an excel file
 * If you're working in bio/biomedical engineering, your time should be spent on your problem and not learning slurm coding
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -98,13 +90,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* [Slurm workload manager](https://slurm.schedmd.com/documentation.html)
-To check, go to your login node and use:
+* [Slurm workload manager](https://slurm.schedmd.com/documentation.html) <br />
+To check if you have Slurm on your cluster, go to your login node and use:
 ```sh
   sinfo -V
   ```
 * [Python 3.0](https://www.python.org/download/releases/3.0/)
-* npm
   
 
 ### Installation
@@ -112,7 +103,7 @@ To check, go to your login node and use:
 1. Log in to your slurm cluster (For UNC, this is the longleaf cluster)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/usadiqgriffin/pyslurm-batch.git
    ```
 3. Add Python module for using this repo
    ```sh
@@ -125,24 +116,40 @@ To check, go to your login node and use:
 1. Execute simple MATLAB code on 5 files:
    ```sh
    module add matlab/2018a
-   python pybatch_slurm --cmd "matlab matlab_print" -f matlab.csv
+   python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5
+   ```
+2. Run FSL tool (fsl_anat) to anatomically process subjects from fsl_subs.csv:
+   ```sh
+   module add fsl
+   python pybatch_slurm.py -c "fsl_anat -i" --from 0 --to 1 --file fsl_subs.csv
+   ```
+3. Run simple bash code on a subject:
+   ```sh
+   python pybatch_slurm.py -c "bash bash_test.sh " --from 0 --to 1 --file fsl_subs.csv
    ```
    
-Usage: pybatch_slurm.py [-h] -c INCMD [-f FILE] [--from START] [--to STOP]
+4. Execute MATLAB code on 5 files, 3 subjects per batch, waiting for 5 mins to launch the next batch:
+   ```sh
+   module add matlab/2018a
+   python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5 --batch 3 --time 0.08
+   ```
+   
+General Usage: pybatch_slurm.py [-h] -c CMD_IN [-f FILE] [--from START] [--to STOP] [--batch BATCH_SIZE] [--time TIME]
 
 PySlurm: A Python module to batch process MATLAB, FSL using Slurm manager
 
 optional arguments:
   -h, --help            show this help message and exit
-  -c INCMD, --cmd INCMD
-                        specify the command to be run on multiple subjects
+  -c CMD_IN, --cmd CMD_IN
+                        specify command to be run on multiple subjects
   -f FILE, --file FILE  specify csv file to load inputs/subjects from
   --from START          starting subject number
   --to STOP             last subject number
+  --batch BATCH_SIZE    batch size of the files/subjects to process together
+  --time TIME           how long do you expect each batch to take to process(hours)
 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
