@@ -112,12 +112,12 @@ To check if you have Slurm on your cluster, go to your login node and use:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Execute simple MATLAB code on 5 files:
+1. Execute simple MATLAB code on 5 subjects:
    ```sh
    module add matlab/2018a
    python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5
    ```
-2. Run [FSL tool](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/fsl_anat) to anatomically process subjects from fsl_subs.csv:
+2. Run [FSL's fsl_anat](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/fsl_anat) to anatomically process subjects from fsl_subs.csv:
    ```sh
    module add fsl
    python pybatch_slurm.py -c "fsl_anat -i" --from 0 --to 1 --file fsl_subs.csv
