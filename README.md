@@ -134,7 +134,7 @@ To check if you have Slurm on your cluster, go to your login node and use:
    python pybatch_slurm.py -c "matlab matlab_print" --from 1 --to 5 --batch 3 --time 0.08
    ```
    
-General Usage: pybatch_slurm.py [-h] -c CMD_IN [-f FILE] [--from START] [--to STOP] [--batch BATCH_SIZE] [--time TIME]
+5. General Usage: pybatch_slurm.py [-h] -c CMD_IN [-f FILE] [--from START] [--to STOP] [--batch BATCH_SIZE] [--time TIME]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -147,7 +147,7 @@ optional arguments:
   --time TIME           how long do you expect each batch to take to process(hours)
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For help with slurm commands, please refer to the [Slurm Documentation](https://slurm.schedmd.com/)_
 
 
 <!-- ROADMAP -->
