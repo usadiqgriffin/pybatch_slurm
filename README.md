@@ -13,9 +13,9 @@
 </p>
   
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][https://github.com/usadiqgriffin/pybatch_slurm/stargazers]
-[![Issues][issues-shield]][https://github.com/usadiqgriffin/pybatch_slurm/issues]
-[![MIT License][license-shield]][https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
@@ -222,3 +222,7 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+https://github.com/usadiqgriffin/pybatch_slurm/issues
+https://github.com/usadiqgriffin/pybatch_slurm/stargazers
+https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE
