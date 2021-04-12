@@ -1,5 +1,4 @@
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -9,15 +8,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<pre> <pre><pre> <pre> ![Downloads][downloads-shield]
+![Downloads][downloads-shield]
 ![Stars][stars-shield]
 ![Forks][forks-shield]
 ![Issues][issues-shield]
 ![License][license-shield]
   
-<p align="center">
-  <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
-</p>
+<img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
