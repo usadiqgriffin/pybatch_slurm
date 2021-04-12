@@ -34,7 +34,7 @@
 <p align="center">
 
   <p align="center">
-    An amazing Python wrapper to batch process MATLAB, FSL and Freesurfer on Slurm based clusters
+    A Python wrapper to batch process MATLAB, FSL and Freesurfer on Slurm based clusters
     <br />
     <br />
     <br />
