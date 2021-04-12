@@ -29,18 +29,13 @@
 ![License][license-shield]
 
 <p align="center">
-  <a>
   <img src="https://img.shields.io/github/downloads/usadiqgriffin/pybatch_slurm/total">
-  </a>
-  <a>
   <img src="https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social">
-  </a>
-  <a>
-  <img src="https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square">
-  </a>                   
-  <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+  <img src="https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square">                  
 </p>
-
+<p align="center">
+    <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+</p>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
