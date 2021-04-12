@@ -220,4 +220,3 @@ U Sadiq - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/)
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [downloads-shield]: https://img.shields.io/github/downloads/usadiqgriffin/pybatch_slurm/total
-[downloads-url]: 
