@@ -40,6 +40,7 @@
 
 [logo]: https://s4.gifyu.com/images/Pybatch_slurm.gif "Logo Title Text 2"
 
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -216,13 +217,9 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/usadiqgriffin/pybatch_slurm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/usadiqgriffin/pybatch_slurm/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-
-https://github.com/usadiqgriffin/pybatch_slurm/issues
-https://github.com/usadiqgriffin/pybatch_slurm/stargazers
-https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE
