@@ -14,6 +14,7 @@
 
 
 
+
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
@@ -207,15 +208,15 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/all-contributors/usadiqgriffin/pybatch_slurm
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/usadiqgriffin/pybatch_slurm/network/members
+[forks-url]: https://img.shields.io/github/forks/usadiqgriffin/pybatch_slurm?style=social
 [stars-shield]: https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social
 [stars-url]: https://github.com/usadiqgriffin/pybatch_slurm/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/usadiqgriffin/pybatch_slurm
 [issues-url]: https://github.com/usadiqgriffin/pybatch_slurm/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/usadiqgriffin/pybatch_slurm
 [license-url]: https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
