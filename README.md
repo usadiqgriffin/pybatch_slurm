@@ -208,7 +208,7 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/all-contributors/usadiqgriffin/pybatch_slurm
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/usadiqgriffin/pybatch_slurm?style=social
 [forks-url]: https://img.shields.io/github/forks/usadiqgriffin/pybatch_slurm?style=social
 [stars-shield]: https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social
 [stars-url]: https://github.com/usadiqgriffin/pybatch_slurm/stargazers
