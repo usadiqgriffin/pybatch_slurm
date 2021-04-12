@@ -27,7 +27,7 @@
   </a>                                                                           
 </p>
 <p align="center">
-    <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+    <img width="500" height="350" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
 <!-- PROJECT LOGO -->
 <br />
@@ -168,7 +168,7 @@ _For help with slurm commands, please refer to the [Slurm Documentation](https:/
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/usadiqgriffin/pybatch_slurm/issues) for a list of proposed features (and known issues).
 
 
 
@@ -195,24 +195,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - email@example.com
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+U Sadiq - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - email@example.com
 
 
 
