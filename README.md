@@ -37,7 +37,6 @@
     A Python wrapper to batch process MATLAB, FSL and Freesurfer on Slurm based clusters
     <br />
     <br />
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/usadiqgriffin/pybatch_slurm/issues">Report Bug</a>
