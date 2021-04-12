@@ -7,14 +7,39 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[contributors-shield]: https://img.shields.io/github/all-contributors/usadiqgriffin/pybatch_slurm
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/usadiqgriffin/pybatch_slurm?style=social
+[forks-url]: https://img.shields.io/github/forks/usadiqgriffin/pybatch_slurm?style=social
+[stars-shield]: https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social
+[stars-url]: https://github.com/usadiqgriffin/pybatch_slurm/stargazers
+[issues-shield]: https://img.shields.io/github/issues/usadiqgriffin/pybatch_slurm
+[issues-url]: https://github.com/usadiqgriffin/pybatch_slurm/issues
+[license-shield]: https://img.shields.io/github/license/usadiqgriffin/pybatch_slurm
+[license-url]: https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
+[downloads-shield]: https://img.shields.io/github/downloads/usadiqgriffin/pybatch_slurm/total
 
 ![Downloads][downloads-shield]
 ![Stars][stars-shield]
 ![Forks][forks-shield]
 ![Issues][issues-shield]
 ![License][license-shield]
-  
-<img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://img.shields.io/github/all-contributors/usadiqgriffin/pybatch_slurm">
+  </a>
+  <img src="https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social">
+  </a>
+  <a href="https://github.com/othneildrew/Best-README-Template/issues">
+  <img src="https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square">
+  </a>                   
+  <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
+</p>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
