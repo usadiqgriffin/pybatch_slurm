@@ -15,8 +15,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/usadiqgriffin/pybatch_slurm/stargazers)
-
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
