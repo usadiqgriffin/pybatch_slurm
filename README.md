@@ -12,7 +12,7 @@
   [![Contributors][contributors-shield]][contributors-url]
 </p>
   
-[![Forks][forks-shield]][https://github.com/usadiqgriffin/pybatch_slurm/network/members]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][https://github.com/usadiqgriffin/pybatch_slurm/stargazers]
 [![Issues][issues-shield]][https://github.com/usadiqgriffin/pybatch_slurm/issues]
 [![MIT License][license-shield]][https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE]
@@ -100,6 +100,7 @@ To check if you have Slurm on your cluster, go to your login node and use:
   ```
 * [Python 3.0](https://www.python.org/download/releases/3.0/)
   
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Installation
 
@@ -211,7 +212,7 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/usadiqgriffin/pybatch_slurm/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
