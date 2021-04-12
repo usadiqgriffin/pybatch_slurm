@@ -9,11 +9,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-     ![Downloads][downloads-shield]
-     ![Stars][stars-shield]
-      ![Forks][forks-shield]
-        ![Issues][issues-shield]
-          ![License][license-shield]
+![Downloads][downloads-shield]
+![Stars][stars-shield]
+![Forks][forks-shield]
+![Issues][issues-shield]
+![License][license-shield]
   
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
