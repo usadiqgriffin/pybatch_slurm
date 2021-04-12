@@ -200,7 +200,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-U Sadiq - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - email@example.com
+U Sadiq - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/)
 
 
 
