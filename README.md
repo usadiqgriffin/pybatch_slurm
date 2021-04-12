@@ -8,20 +8,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![Downloads][downloads-shield]
-[![Stars][stars-shield]]
+https://img.shields.io/packagist/stars/usadiqgriffin/pybatch_slurm
+https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
-
+[![Contributors][contributors-shield]][contributors-url]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -215,7 +211,7 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/usadiqgriffin/pybatch_slurm/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social
 [stars-url]: https://github.com/usadiqgriffin/pybatch_slurm/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/usadiqgriffin/pybatch_slurm/issues
