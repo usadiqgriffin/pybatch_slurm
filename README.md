@@ -8,7 +8,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Downloads][downloads-shield]
+![Downloads][downloads-shield]
+https://img.shields.io/packagist/stars/usadiqgriffin/pybatch_slurm
+
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
