@@ -10,11 +10,10 @@
 -->
 ![Downloads][downloads-shield]
 ![Stars][stars-shield]
+![Forks][forks-shield]
+![Issues][issues-shield]
+![License][license-shield]
 
-
-
-
-[![Contributors][contributors-shield]][contributors-url]
 <p align="center">
   <img width="600" height="400" src="https://s4.gifyu.com/images/Pybatch_slurm.gif">
 </p>
