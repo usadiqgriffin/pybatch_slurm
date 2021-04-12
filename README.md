@@ -8,7 +8,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+[downloads-shield]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -221,3 +221,5 @@ Your Name - [@My LinkedIn](https://www.linkedin.com/in/usman-sadiq-765a643b/) - 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+[downloads-shield]: https://img.shields.io/github/downloads/usadiqgriffin/pybatch_slurm/total
+[downloads-url]: 
