@@ -149,13 +149,20 @@ To check if you have Slurm on your cluster, go to your login node and use:
     ```
     pybatch_slurm.py [-h] -c CMD_IN [-f FILE] [--from START] [--to STOP] [--batch BATCH_SIZE] [--time TIME]
     optional arguments:
+    
       -h, --help            show this help message and exit
+      
       -c CMD_IN, --cmd CMD_IN
                             specify command to be run on multiple subjects
+                            
       -f FILE, --file FILE  specify csv file to load inputs/subjects from
+      
       --from START          starting subject number
+      
       --to STOP             last subject number
+      
       --batch BATCH_SIZE    batch size of the files/subjects to process together
+      
       --time TIME           how long do you expect each batch to take to process(hours)
     ```
 
