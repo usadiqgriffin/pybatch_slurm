@@ -9,8 +9,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-  ![Downloads][downloads-shield]
-  ![Stars][stars-shield]
+-  ![Downloads][downloads-shield]
+-  ![Stars][stars-shield]
   ![Forks][forks-shield]
   ![Issues][issues-shield]
   ![License][license-shield]
