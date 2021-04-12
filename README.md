@@ -9,7 +9,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![Downloads][downloads-shield]
-https://img.shields.io/packagist/stars/usadiqgriffin/pybatch_slurm
+![Stars[[https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social]
 
 
 [![Contributors][contributors-shield]][contributors-url]
