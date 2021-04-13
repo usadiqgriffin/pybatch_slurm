@@ -109,7 +109,7 @@ To check if you have Slurm on your cluster, go to your login node and use:
 
 ### Installation
 
-1. Log in to your slurm cluster (For UNC, this is the longleaf cluster)
+1. Log in to your slurm cluster (For UNC, this is the [longleaf cluster](https://its.unc.edu/research-computing/techdocs/getting-started-on-longleaf/#Logging%20In))
 2. Clone the repo
    ```sh
    git clone https://github.com/usadiqgriffin/pybatch_slurm.git
