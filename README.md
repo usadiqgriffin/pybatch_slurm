@@ -22,7 +22,7 @@
   <a href="https://github.com/usadiqgriffin/pybatch_slurm/issues">
   <img src="https://img.shields.io/github/issues/usadiqgriffin/pybatch_slurm">
   </a>
-  <a href="https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE">
+  <a href="https://github.com/usadiqgriffin/pybatch_slurm/blob/main/LICENSE.txt">
   <img src="https://img.shields.io/github/license/usadiqgriffin/pybatch_slurm">
   </a>                                                                           
 </p>
