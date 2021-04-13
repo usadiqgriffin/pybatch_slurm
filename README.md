@@ -10,9 +10,6 @@
 
 <p align="center">
   
-  <a href="https://github.com/usadiqgriffin/pybatch_slurm.git">
-  <img src="https://img.shields.io/github/downloads/usadiqgriffin/pybatch_slurm/total">
-  </a>
   <a href="https://github.com/usadiqgriffin/pybatch_slurm/stargazers">
   <img src="https://img.shields.io/github/stars/usadiqgriffin/pybatch_slurm?style=social">
   </a>
