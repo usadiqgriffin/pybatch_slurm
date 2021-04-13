@@ -122,6 +122,10 @@ To check if you have Slurm on your cluster, go to your login node and use:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+CD into the repo:
+   ```sh
+   cd pybatch_slurm
+   ```
 1. Execute simple MATLAB code on 5 subjects:
    ```sh
    module add matlab/2018a
